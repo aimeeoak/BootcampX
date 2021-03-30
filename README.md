@@ -1,2 +1,0 @@
-# bootcampx
-# BootcampX
